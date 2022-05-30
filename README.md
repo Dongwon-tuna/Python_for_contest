@@ -5,7 +5,7 @@
 2.2022 공학교육혁신센터 Capstone Design Team.
 [Click here](http://ceei.konkuk.ac.kr/noticeView.do?siteId=CEEI&boardSeq=1227&menuSeq=8579&seq=89438)
 
-인적사항
+**인적사항**
 
 
 이름|소속학과|학년
