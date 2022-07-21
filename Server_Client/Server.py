@@ -4,7 +4,7 @@ import threading
 HEADER = 64
 PORT = 5050
 #SERVER = "192.168.0.6" #cmd에서 ipconfig 후 나타는 정보중에 IPv4 주소를 가져옴
-SERVER = socket.gethostbyname(socket.gethostname())#이 코드로도 IP주소 가져올 수 있음
+#SERVER = socket.gethostbyname(socket.gethostname())#이 코드로도 IP주소 가져올 수 있음
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
